@@ -7,6 +7,7 @@ A full-featured relational database schema designed for an e-commerce store. Thi
 ## 📁 Project Structure
 
 ecommerce-store-database/
+
 │
 ├── answers # Main SQL file containing database schema
 
